@@ -15,9 +15,13 @@ problem1Result = Problem1.new
 problem1Result.DoMath
 puts 'Problem 1 Result = ' + problem1Result.result.to_s() 
 
-Problem2Result = Problem2.new
-Problem2Result.DoMath
-puts 'Problem 2 Result = ' + Problem2Result.result.to_s()
+problem2Result = Problem2.new
+problem2Result.DoMath
+puts 'Problem 2 Result = ' + problem2Result.result.to_s()
+
+problem3Result = Problem3.new
+problem3Result.DoMath
+puts 'Problem 3 Result = ' + problem3Result.result.to_s()
 
 problem4Result = Problem4.new
 problem4Result.DoMath

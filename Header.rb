@@ -8,5 +8,5 @@ File to do reference the problems classes
 
 require_relative 'Problem1'  
 require_relative 'Problem2'
-
+require_relative 'Problem3'
 require_relative 'Problem4'
