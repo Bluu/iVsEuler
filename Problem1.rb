@@ -24,4 +24,5 @@ class Problem1
 	end
 
 	attr_reader :result
+	
 end
