@@ -42,3 +42,7 @@ puts 'Problem 7 Result = ' + problem7Result.result.to_s()
 problem8Result = Problem8.new
 problem8Result.DoMath
 puts 'Problem 8 Result = ' + problem8Result.result.to_s()
+
+problem9Result = Problem9.new
+problem9Result.DoMath
+puts 'Problem 9 Result = ' + problem9Result.result.to_s()
