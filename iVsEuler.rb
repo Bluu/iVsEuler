@@ -10,7 +10,7 @@ summary:	This program contains the solution for the Euler problems that you can 
 =end
 
 require_relative 'Header' 
-=begin
+
 problem1Result = Problem1.new
 problem1Result.DoMath
 puts 'Problem 1 Result = ' + problem1Result.result.to_s() 
@@ -62,7 +62,11 @@ puts 'Problem 12 Result = ' + problem12Result.result.to_s()
 problem13Result = Problem13.new
 problem13Result.DoMath
 puts 'Problem 13 Result = ' + problem13Result.result.to_s()
-=end
+
 problem14Result = Problem14.new
 problem14Result.DoMath
 puts 'Problem 14 Result = ' + problem14Result.result.to_s()
+
+problem15Result = Problem15.new
+problem15Result.DoMath
+puts 'Problem 15 Result = ' + problem15Result.result.to_s()
