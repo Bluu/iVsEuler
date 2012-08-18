@@ -94,10 +94,14 @@ puts 'Problem 20 Result = ' + problem20Result.result.to_s()
 problem21Result = Problem21.new
 problem21Result.DoMath
 puts 'Problem 21 Result = ' + problem21Result.result.to_s()
-=end
+
 problem22Result = Problem22.new
 problem22Result.DoMath
 puts 'Problem 22 Result = ' + problem22Result.result.to_s()
+=end
+problem23Result = Problem23.new
+problem23Result.DoMath
+puts 'Problem 23 Result = ' + problem23Result.result.to_s()
 
 =begin
 problem67Result = Problem67.new
