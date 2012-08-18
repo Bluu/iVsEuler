@@ -27,5 +27,6 @@ require_relative 'Problem18'
 require_relative 'Problem19'
 require_relative 'Problem20'
 require_relative 'Problem21'
+require_relative 'Problem22'
 
 require_relative 'Problem67'
